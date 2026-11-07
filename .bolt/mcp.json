@@ -1,7 +1,3 @@
 {
-  "mcpServers": {
-    "vercel": {
-      "enabled": true
-    }
-  }
+  "mcpServers": {}
 }
