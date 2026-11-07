@@ -1,0 +1,2 @@
+[functions.file-access]
+verify_jwt = false
